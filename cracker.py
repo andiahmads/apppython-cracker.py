@@ -1,8 +1,7 @@
 
 #source code murni dari hasil latihan saya
-#saya akan terus kembangkan program ini
-#program ini berguna dalam hacking dengan istilah bruteforce
-#Fri 14 Oct 2016 03:45:32 AM WIB 
+#silakan bagi yang kurang puas di edit lagi sourcescode nya
+#dan saya juga masih newbie di pemograman python
 
 from getpass import getpass
 import datetime
