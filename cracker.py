@@ -1,11 +1,9 @@
-
-#source code murni dari hasil latihan saya
-#silakan bagi yang kurang puas di edit lagi sourcescode nya
-#dan saya juga masih newbie di pemograman python
+#silakan di rubah jika masih kurang puas
+#dan selamat menggunakan
 
 from getpass import getpass
 import datetime
-import time
+
 
 
 
@@ -31,27 +29,25 @@ while i > 0:
 #intruksi untuk kembali 
 print'''
 
-                                                                                                            _____                   
-_______    ______                _____ ___________         _____               _____  ______   _______   _____\    \___________       
-\      |  |      |          _____\    \\          \      /      |_        _____\    \|\     \  \      \ /    / |    \          \      
- |     /  /     /|         /     /|     \    /\    \    /         \      /     /|     \\     \  |     //    /  /___/|\    /\    \     
- |\    \  \    |/         /     / /____/||   \_\    |  |     /\    \    /     / /____/|\|     |/     //    |__ |___|/ |   \_\    |    
- \ \    \ |    |         |     | |____|/ |      ___/   |    |  |    \  |     | |____|/  |     |_____//|       \       |      ___/     
-  \|     \|    |         |     |  _____  |      \  ____|     \/      \ |     |  _____   |     |\     \|     __/ __    |      \  ____  
-   |\         /|         |\     \|\    \/     /\ \/    \\      /\     \|\     \|\    \ /     /|\|     |\    \  /  \  /     /\ \/    \ 
-   | \_______/ |         | \_____\|    /_____/ |\______| \_____\ \_____\ \_____\|    |/_____/ |/_____/| \____\/    |/_____/ |\______| 
-    \ |     | /          | |     /____/|     | | |     | |     | |     | |     /____/|     | / |    | | |    |____/||     | | |     | 
-     \|_____|/            \|_____|    ||_____|/ \|_____|\|_____|\|_____|\|_____|    ||_____|/  |____|/ \|____|   | ||_____|/ \|_____| 
-                                 |____|/                                       |____|/                       |___|/                   
-	'''
-print '\n'
 
-print 				'selamat datang di program saya ==by andi ahmad saputra'
-print 				   'program ini berguna untuk pembuatan wordlist'
-print 				'berguna untuk crack password dengan metode bruteforce'
-print 				   'masukan perkata--kata-kata yang anda pikirkan'
-print 				    'maka program akan mengacak kata tersebut'
-	
+			  ______    _______        __       ______   __   ___  _______   _______   
+			 /" _  "\  /"      \      /""\     /" _  "\ |/"| /  ")/"     "| /"      \  
+			(: ( \___)|:        |    /    \   (: ( \___)(: |/   /(: ______)|:        | 
+			 \/ \     |_____/   )   /' /\  \   \/ \     |    __/  \/    |  |_____/   ) 
+			 //  \ _   //      /   //  __'  \  //  \ _  (// _  \  // ___)_  //      /  
+			(:   _) \ |:  __   \  /   /  \\  \(:   _) \ |: | \  \(:      "||:  __   \  
+			 \_______)|__|  \___)(___/    \___)\_______)(__|  \__)\_______)|__|  \___) 
+                                                                                                                                                                                                                                        '''
+print '''
+			|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.
+
+ 			|.|	selamat datang di program saya ==by andi ahmad saputra    |.|  
+ 			|.|	   program ini berguna untuk pembuatan wordlist           |.|
+			|.|	berguna untuk crack password dengan metode bruteforce     |.|
+ 			|.|	   masukan perkata--kata-kata yang anda pikirkan          |.| 
+ 			|.|	    maka program akan mengacak kata tersebut              |.| 
+.			|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.|.   
+'''	
 print '\n'
 
 keputusan = 'y'
@@ -578,6 +574,13 @@ while (keputusan !='n'):
 	keputusan = raw_input("anda ingin melanjutkan[y/n]:")
 	if keputusan == 'n':
 		print "selamat membobol"
+					
+	
+
+
+
+
+
 					
 	
 
